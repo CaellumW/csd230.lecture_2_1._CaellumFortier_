@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/csd230.lecture_2_1.CaellumFortier/src/main/main.iml" filepath="$PROJECT_DIR$/csd230.lecture_2_1.CaellumFortier/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csd230.lecture_2_1.CaellumFortier/src/test/test.iml" filepath="$PROJECT_DIR$/csd230.lecture_2_1.CaellumFortier/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
