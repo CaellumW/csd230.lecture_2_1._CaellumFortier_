@@ -1,12 +1,14 @@
-package csd230.lecture_2_1;
+package csd230.csd230.lecture_2_1.CaellumFortier;
 
 import com.github.javafaker.Commerce;
 import com.github.javafaker.Faker;
+import csd230.csd230.lecture_2_1.CaellumFortier.Product;
 import csd230.csd230.lecture_2_1.CaellumFortier.ProductRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.data.jpa.test.autoconfigure.DataJpaTest;
-import org.springframework.boot.jdbc.test.autoconfigure.AutoConfigureTestDatabase;
+import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
+import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;
+
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
